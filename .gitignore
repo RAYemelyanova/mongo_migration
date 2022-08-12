@@ -1,3 +1,7 @@
+# Container/CLI testing
+tst/
+example.json
+
 # Developer Tools
 .devcontainer/
 .vscode/
